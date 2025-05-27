@@ -1,3 +1,4 @@
+/// <reference types="cypress" />
 import { Content } from '.';
 
 describe('Form Testing', () => {
